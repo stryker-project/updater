@@ -1,1 +1,1 @@
-1;Test message;true;Open;https://t.me/strykerapp;Hi, This is test msg!
+2;Test message;Hi, This is test msg!;Open;https://t.me/strykerapp;
