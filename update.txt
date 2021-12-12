@@ -1,1 +1,1 @@
-1.2B,3,https://github.com/stryker-project/app/releases/download/1.1B/Stryker1.1B.apk,https://github.com/stryker-project/stryker-chroot/releases/download/0.2/coreP1.tar.gz
+1.2B,2,https://github.com/stryker-project/app/releases/download/1.1B/Stryker1.1B.apk,https://github.com/stryker-project/stryker-chroot/releases/download/0.2/coreP1.tar.gz
