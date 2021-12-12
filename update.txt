@@ -1,1 +1,1 @@
-1.2B,3,https://github.com/stryker-project/app/releases/download/1.2Fix/Stryker.1.2BFix.apk,https://github.com/stryker-project/stryker-chroot/releases/download/1.2/1.2B.tar.gz
+1.2B Fix,4,https://github.com/stryker-project/app/releases/download/1.2Fix/Stryker.1.2BFix.apk,https://github.com/stryker-project/stryker-chroot/releases/download/1.2/1.2B.tar.gz
